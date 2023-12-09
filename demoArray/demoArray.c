@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define BUFFER_SIZE 10
+#define BUFFER_SIZE 5
 /* 数组：1，一段连续的存储空间
          2，它里面存放的数据类型是相同的
 */

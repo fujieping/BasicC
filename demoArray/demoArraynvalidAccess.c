@@ -23,7 +23,7 @@ int main()
         自动缩容*/
 #endif
 
-#if 1 /* 字符数组*/
+#if 0 /* 字符数组*/
     
 
 #endif

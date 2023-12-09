@@ -30,7 +30,7 @@ int main()
     printf("ptr:%s\n",ptr);
 #endif
 
-#if 1 /* 字符数组*/
+#if 0 /* 字符数组*/
 
     /* 字符数组的初始化定义的两种方式*/
     char buffer1[] = "helloworld"; // 用双引号，末尾会默认有一个结束符'\0'
